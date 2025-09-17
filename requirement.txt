@@ -1,2 +1,13 @@
 ipykernel
 bs4
+streamlit
+request
+render_template
+flask
+threading
+BeautiFulSoap
+numpy
+pandas
+matplotlib
+seaborn
+memory_prfiler
